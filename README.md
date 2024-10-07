@@ -1,2 +1,3 @@
 # ARCH-LINUX-DOWNGRADE-PACKAGES
-Quick tutorial on how to downgrade packages on ARCH Linux
+
+In order to downgrade packages on Arch linux, you'll have to install the "downgrade AUR package"
